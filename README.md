@@ -1,3 +1,3 @@
 # demo-project1
 This is my first git repository.
-Author - Abdul Razique
+Author - Abdul Razique Razagit status
